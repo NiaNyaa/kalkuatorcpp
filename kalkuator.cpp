@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-system("clear");
+//system("clear");
 int pil;
 
 cout << "Program Kalkuator\n" << endl;
