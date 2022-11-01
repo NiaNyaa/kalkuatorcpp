@@ -1,4 +1,4 @@
-// By Ikhsan
+// By NiaNyaa
 #include <iostream>
 using namespace std;
 
