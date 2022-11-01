@@ -1,4 +1,4 @@
-// By NiaNyaa
+// Kalkulator C++
 #include <iostream>
 using namespace std;
 
